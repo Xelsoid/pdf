@@ -1,4 +1,4 @@
-const pdf = './pdf-test-2.pdf';
+const pdf = './pdf-test-3.pdf';
 
 const pageNum = document.querySelector('#page_num');
 const pageCount = document.querySelector('#page_count');
